@@ -1,0 +1,2324 @@
+[{
+    "resId": 20859742,
+    "name": "Martino'z Pizza",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/dish_photos/313/853cbf69baf239e5165ed2a6043b7313.jpg"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/2/20859742/999cd072e88a5cc80fda0ba02a07c940_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.9",
+        "rating_text": "3.9",
+        "rating_subtitle": "Good",
+        "rating_color": "9ACD32",
+        "votes": "426",
+        "subtext": "REVIEWS",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "",
+                "reviewCount": "0",
+                "reviewTextSmall": "0 Reviews",
+                "subtext": "Does not offer Dining",
+                "color": "",
+                "ratingV2": "-",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "grey",
+                    "tint": "500"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "3.9",
+                "reviewCount": "426",
+                "reviewTextSmall": "426 Reviews",
+                "subtext": "426 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "3.9",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹400 for two"
+    },
+    "cfo": {
+        "text": "₹450 for one"
+    },
+    "locality": {
+        "name": "Geeta Bhavan, Indore",
+        "address": "G-6, 22/3, Tulsi Tower, Street 1, Geeta Bhavan, Indore",
+        "localityUrl": "indore/geeta-bhavan-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/pizza/",
+            "name": "Pizza"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/fast-food/",
+            "name": "Fast Food"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzNcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/mexican/",
+            "name": "Mexican"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹450 for one"
+    }
+},
+{
+    "resId": 20819778,
+    "name": "The New York Pizza",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/dish_photos/07f/e58df37e8db070b1bf2f9867cf26a07f.jpg"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/8/20819778/19f5f7d1b5dcb5670c29fb764b55663c_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.3",
+        "rating_text": "3.3",
+        "rating_subtitle": "Average",
+        "rating_color": "CDD614",
+        "votes": "235",
+        "subtext": "REVIEWS",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "",
+                "reviewCount": "0",
+                "reviewTextSmall": "0 Reviews",
+                "subtext": "Does not offer Dining",
+                "color": "",
+                "ratingV2": "-",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "grey",
+                    "tint": "500"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "3.3",
+                "reviewCount": "235",
+                "reviewTextSmall": "235 Reviews",
+                "subtext": "235 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "3.3",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "500"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹350 for two"
+    },
+    "cfo": {
+        "text": "₹450 for one"
+    },
+    "locality": {
+        "name": "Bhawar Kuan, Indore",
+        "address": "37, Pipliya Rao, Bhawar Kuan, Indore",
+        "localityUrl": "indore/bhawar-kuan-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/pizza/",
+            "name": "Pizza"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹450 for one"
+    }
+},
+{
+    "resId": 1400096,
+    "name": "Bake N Shake",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/dish_photos/0b4/affb68ef7861159c841dd8c0cca190b4.jpg"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/chains/6/1400096/ca1f0fc120f290f49609989f5fdb8452_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "4.2",
+        "rating_text": "4.2",
+        "rating_subtitle": "Very Good",
+        "rating_color": "5BA829",
+        "votes": "10.7K",
+        "subtext": "REVIEWS",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "4.2",
+                "reviewCount": "671",
+                "reviewTextSmall": "671 Reviews",
+                "subtext": "671 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "4.2",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "4.2",
+                "reviewCount": "10K",
+                "reviewTextSmall": "10K Reviews",
+                "subtext": "10K Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "4.2",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹850 for two"
+    },
+    "cfo": {
+        "text": "₹450 for one"
+    },
+    "locality": {
+        "name": "BCM Heights, Vijay Nagar, Indore",
+        "address": "Shop 3 & 4, Giriraj Grande, Satya Sai Square, Vijay Nagar, Indore",
+        "localityUrl": "indore/restaurants/in/bcm-heights-vijay-nagar"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/cafes/",
+            "name": "Cafe"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNVwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/bakery/",
+            "name": "Bakery"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/north-indian/",
+            "name": "North Indian"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/chinese/",
+            "name": "Chinese"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/continental/",
+            "name": "Continental"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/sandwich/",
+            "name": "Sandwich"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/fast-food/",
+            "name": "Fast Food"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/beverages/",
+            "name": "Beverages"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹450 for one"
+    }
+},
+{
+    "resId": 1402199,
+    "name": "Little Italy",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/dish_photos/163/7765555fcc0fc885f72fbcd0f0e4f163.jpg"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/chains/9/1402199/89de87f4bff9a30bbfcc56eca9501d96_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "4.3",
+        "rating_text": "4.3",
+        "rating_subtitle": "Very Good",
+        "rating_color": "5BA829",
+        "votes": "1,362",
+        "subtext": "REVIEW",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "4.5",
+                "reviewCount": "418",
+                "reviewTextSmall": "418 Reviews",
+                "subtext": "418 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "4.5",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "800"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "4.1",
+                "reviewCount": "944",
+                "reviewTextSmall": "944 Reviews",
+                "subtext": "944 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "4.1",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹1,400 for two"
+    },
+    "cfo": {
+        "text": "₹200 for one"
+    },
+    "locality": {
+        "name": "Vijay Nagar, Indore",
+        "address": "78/2nd, Brilliant Convention Centre, Near Lifecare Hospital, Vijay Nagar, Indore",
+        "localityUrl": "indore/vijay-nagar-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/italian/",
+            "name": "Italian"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/pizza/",
+            "name": "Pizza"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/pasta/",
+            "name": "Pasta"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹200 for one"
+    }
+},
+{
+    "resId": 18748520,
+    "name": "Vijayshree Sandwich",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/dish_photos/190/f14723b756dd355ec3d10c5d60522190.jpg"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/chains/3/1401863/930ee0cc8be9a105207904e0979904b3_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "4.2",
+        "rating_text": "4.2",
+        "rating_subtitle": "Very Good",
+        "rating_color": "5BA829",
+        "votes": "4,826",
+        "subtext": "REVIEWS",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "4.0",
+                "reviewCount": "63",
+                "reviewTextSmall": "63 Reviews",
+                "subtext": "63 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "4.0",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "4.3",
+                "reviewCount": "4,763",
+                "reviewTextSmall": "4,763 Reviews",
+                "subtext": "4,763 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "4.3",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹250 for two"
+    },
+    "cfo": {
+        "text": "₹200 for one"
+    },
+    "locality": {
+        "name": "Jail Road, Indore",
+        "address": "Shop 11-12, Old 23/1, New 18/1, Mungree State, Jail Road, Indore",
+        "localityUrl": "indore/jail-road-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/sandwich/",
+            "name": "Sandwich"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/pizza/",
+            "name": "Pizza"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY4XCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/burger/",
+            "name": "Burger"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/fast-food/",
+            "name": "Fast Food"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/street-food/",
+            "name": "Street Food"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY0XCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/juices/",
+            "name": "Juices"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/shake/",
+            "name": "Shake"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/beverages/",
+            "name": "Beverages"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹200 for one"
+    }
+},
+{
+    "resId": 18511264,
+    "name": "Mitti - Organic Fresh Desi",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/pictures/4/18511264/5727274a1d727452b06ff0e20c71b77f_o2_featured_v2.jpg"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/4/18511264/5727274a1d727452b06ff0e20c71b77f_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "4.2",
+        "rating_text": "4.2",
+        "rating_subtitle": "Very Good",
+        "rating_color": "5BA829",
+        "votes": "15.3K",
+        "subtext": "REVIEWS",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "4.1",
+                "reviewCount": "637",
+                "reviewTextSmall": "637 Reviews",
+                "subtext": "637 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "4.1",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "4.3",
+                "reviewCount": "14.7K",
+                "reviewTextSmall": "14.7K Reviews",
+                "subtext": "14.7K Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "4.3",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹1,000 for two"
+    },
+    "cfo": {
+        "text": "₹200 for one"
+    },
+    "locality": {
+        "name": "Old Palasia, Indore",
+        "address": "9 & 10, Lower Ground, Captain C S Naidu Arcade, Old Palasia, Indore",
+        "localityUrl": "indore/old-palasia-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/cafes/",
+            "name": "Cafe"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/coffee/",
+            "name": "Coffee"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/beverages/",
+            "name": "Beverages"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/north-indian/",
+            "name": "North Indian"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/continental/",
+            "name": "Continental"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/chinese/",
+            "name": "Chinese"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTQzXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/health-food/",
+            "name": "Healthy Food"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/desserts/",
+            "name": "Desserts"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹200 for one"
+    }
+},
+{
+    "resId": 1400756,
+    "name": "New Sapna Sandwich & Pizza",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/dish_photos/86e/c6754dded44842ce469a1e95806c986e.jpg"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/6/1400756/a49dda919ac8f939b91f0c7bba52e6cc_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.9",
+        "rating_text": "3.9",
+        "rating_subtitle": "Good",
+        "rating_color": "9ACD32",
+        "votes": "1,793",
+        "subtext": "REVIEW",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "",
+                "reviewCount": "0",
+                "reviewTextSmall": "0 Reviews",
+                "subtext": "Does not offer Dining",
+                "color": "",
+                "ratingV2": "-",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "grey",
+                    "tint": "500"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "3.9",
+                "reviewCount": "1,793",
+                "reviewTextSmall": "1,793 Reviews",
+                "subtext": "1,793 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "3.9",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹300 for two"
+    },
+    "cfo": {
+        "text": "₹200 for one"
+    },
+    "locality": {
+        "name": "Jail Road, Indore",
+        "address": "Near Chikmagalur Chowraha, Jail Road, Indore",
+        "localityUrl": "indore/jail-road-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/sandwich/",
+            "name": "Sandwich"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/pizza/",
+            "name": "Pizza"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY4XCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/burger/",
+            "name": "Burger"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/fast-food/",
+            "name": "Fast Food"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/street-food/",
+            "name": "Street Food"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/beverages/",
+            "name": "Beverages"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹200 for one"
+    }
+},
+{
+    "resId": 19289171,
+    "name": "Apna Sweets",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/dish_photos/fd7/48b43a99e5aabe184f1539f75361ffd7.jpg"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/chains/8/1400208/cb8ad5f90f76f566e5f10165b983b3b6_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.6",
+        "rating_text": "3.6",
+        "rating_subtitle": "Good",
+        "rating_color": "9ACD32",
+        "votes": "17.1K",
+        "subtext": "REVIEWS",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "3.1",
+                "reviewCount": "54",
+                "reviewTextSmall": "54 Reviews",
+                "subtext": "54 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "3.1",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "500"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "4.0",
+                "reviewCount": "17K",
+                "reviewTextSmall": "17K Reviews",
+                "subtext": "17K Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "4.0",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹350 for two"
+    },
+    "cfo": {
+        "text": "₹200 for one"
+    },
+    "locality": {
+        "name": "New Palasia, Indore",
+        "address": "Bhukhand 27, Scheme 55, New Palasia, Indore",
+        "localityUrl": "indore/new-palasia-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/desserts/",
+            "name": "Desserts"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjMzXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/ice-cream/",
+            "name": "Ice Cream"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY0XCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/juices/",
+            "name": "Juices"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/shake/",
+            "name": "Shake"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/beverages/",
+            "name": "Beverages"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹200 for one"
+    }
+},
+{
+    "resId": 18894290,
+    "name": "Your Own Brew Cafe",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/dish_photos/15b/6e055739ab849d6f7c00f95d9145615b.jpg"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/0/18894290/2e5ee61817025adffe4f83d6944c851f_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "4.4",
+        "rating_text": "4.4",
+        "rating_subtitle": "Very Good",
+        "rating_color": "5BA829",
+        "votes": "1,465",
+        "subtext": "REVIEW",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "4.5",
+                "reviewCount": "73",
+                "reviewTextSmall": "73 Reviews",
+                "subtext": "73 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "4.5",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "800"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "4.2",
+                "reviewCount": "1,392",
+                "reviewTextSmall": "1,392 Reviews",
+                "subtext": "1,392 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "4.2",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹600 for two"
+    },
+    "cfo": {
+        "text": "₹200 for one"
+    },
+    "locality": {
+        "name": "Gangwal Bus Stand, Indore",
+        "address": "17, South Rajmohalla, Gangwal Bus Stand, Indore",
+        "localityUrl": "indore/gangwal-bus-stand-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/cafes/",
+            "name": "Cafe"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/coffee/",
+            "name": "Coffee"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/sandwich/",
+            "name": "Sandwich"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/chinese/",
+            "name": "Chinese"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/pizza/",
+            "name": "Pizza"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/pasta/",
+            "name": "Pasta"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyM1wiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/rolls/",
+            "name": "Rolls"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/fast-food/",
+            "name": "Fast Food"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹200 for one"
+    }
+},
+{
+    "resId": 20732328,
+    "name": "Pizza Hat",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/dish_photos/3cc/8b080f67378400d682c3f44139be03cc.jpg"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/8/20732328/69da00fb98eecbb193b238eeccc9ae67_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.2",
+        "rating_text": "3.2",
+        "rating_subtitle": "Average",
+        "rating_color": "CDD614",
+        "votes": "262",
+        "subtext": "REVIEWS",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "",
+                "reviewCount": "0",
+                "reviewTextSmall": "0 Reviews",
+                "subtext": "Does not offer Dining",
+                "color": "",
+                "ratingV2": "-",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "grey",
+                    "tint": "500"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "3.2",
+                "reviewCount": "262",
+                "reviewTextSmall": "262 Reviews",
+                "subtext": "262 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "3.2",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "500"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹500 for two"
+    },
+    "cfo": {
+        "text": "₹200 for one"
+    },
+    "locality": {
+        "name": "HIG-LIG, Indore",
+        "address": "116, Mahakal Ke June Chal, HIG-LIG, Indore",
+        "localityUrl": "indore/hig-lig-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/pizza/",
+            "name": "Pizza"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹200 for one"
+    }
+},
+{
+    "resId": 20764587,
+    "name": "Crazy Coffee",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/dish_photos/50d/35ea771027d47813c8a9403d9655750d.jpg"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/7/20764587/8d7a2c0ed943503dcc8ee46cdcec5202_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "4.0",
+        "rating_text": "4.0",
+        "rating_subtitle": "Very Good",
+        "rating_color": "5BA829",
+        "votes": "93",
+        "subtext": "REVIEWS",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "3.9",
+                "reviewCount": "14",
+                "reviewTextSmall": "14 Reviews",
+                "subtext": "14 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "3.9",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "4.1",
+                "reviewCount": "79",
+                "reviewTextSmall": "79 Reviews",
+                "subtext": "79 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "4.1",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹300 for two"
+    },
+    "cfo": {
+        "text": "₹250 for one"
+    },
+    "locality": {
+        "name": "New Palasia, Indore",
+        "address": "UG-2/5, Ginnar Tower, New Palasia, Indore",
+        "localityUrl": "indore/new-palasia-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/cafes/",
+            "name": "Cafe"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/coffee/",
+            "name": "Coffee"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/pizza/",
+            "name": "Pizza"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/sandwich/",
+            "name": "Sandwich"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/street-food/",
+            "name": "Street Food"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyNFwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/wraps/",
+            "name": "Wraps"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/desserts/",
+            "name": "Desserts"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/beverages/",
+            "name": "Beverages"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹250 for one"
+    }
+},
+{
+    "resId": 21013345,
+    "name": "Crispy Bites",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/pictures/5/21013345/39777e6416b6137365ece7d39d7fb325_o2_featured_v2.jpg"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/5/21013345/39777e6416b6137365ece7d39d7fb325_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "4.3",
+        "rating_text": "4.3",
+        "rating_subtitle": "Very Good",
+        "rating_color": "5BA829",
+        "votes": "51",
+        "subtext": "REVIEWS",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "",
+                "reviewCount": "0",
+                "reviewTextSmall": "0 Reviews",
+                "subtext": "Does not offer Dining",
+                "color": "",
+                "ratingV2": "-",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "grey",
+                    "tint": "500"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "4.3",
+                "reviewCount": "51",
+                "reviewTextSmall": "51 Reviews",
+                "subtext": "51 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "4.3",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹500 for two"
+    },
+    "cfo": {
+        "text": "₹250 for one"
+    },
+    "locality": {
+        "name": "Airport Road, Indore",
+        "address": "25-A, Sangam Nagar, Airport Road, Indore",
+        "localityUrl": "indore/airport-road-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/pizza/",
+            "name": "Pizza"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY4XCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/burger/",
+            "name": "Burger"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/chinese/",
+            "name": "Chinese"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/fast-food/",
+            "name": "Fast Food"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹250 for one"
+    }
+},
+{
+    "resId": 18856102,
+    "name": "Sassy House - All Day Cafe",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/dish_photos/0bc/f075f0e56d2c7fd98ff6b0f443c020bc.jpg"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/2/18856102/99d8ac5d3dca1e9fc5e2363b4497e84c_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.7",
+        "rating_text": "3.7",
+        "rating_subtitle": "Good",
+        "rating_color": "9ACD32",
+        "votes": "1,056",
+        "subtext": "REVIEW",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "3.5",
+                "reviewCount": "144",
+                "reviewTextSmall": "144 Reviews",
+                "subtext": "144 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "3.5",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "3.9",
+                "reviewCount": "912",
+                "reviewTextSmall": "912 Reviews",
+                "subtext": "912 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "3.9",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹650 for two"
+    },
+    "cfo": {
+        "text": "₹250 for one"
+    },
+    "locality": {
+        "name": "Vijay Nagar, Indore",
+        "address": "Plot 95, Scheme 78, Opposite Prestige College, Vijay Nagar, Indore",
+        "localityUrl": "indore/vijay-nagar-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/cafes/",
+            "name": "Cafe"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/fast-food/",
+            "name": "Fast Food"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/north-indian/",
+            "name": "North Indian"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/beverages/",
+            "name": "Beverages"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/desserts/",
+            "name": "Desserts"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/pizza/",
+            "name": "Pizza"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/pasta/",
+            "name": "Pasta"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹250 for one"
+    }
+},
+{
+    "resId": 18882442,
+    "name": "Shreenath Sandwich",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/dish_photos/093/500688bc2a5bff5470bc876963fd8093.jpg"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/2/18882442/02d90ea81733f381dd437b7d7fb1a7ee_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.9",
+        "rating_text": "3.9",
+        "rating_subtitle": "Good",
+        "rating_color": "9ACD32",
+        "votes": "1,732",
+        "subtext": "REVIEW",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "3.7",
+                "reviewCount": "31",
+                "reviewTextSmall": "31 Reviews",
+                "subtext": "31 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "3.7",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "4.0",
+                "reviewCount": "1,701",
+                "reviewTextSmall": "1,701 Reviews",
+                "subtext": "1,701 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "4.0",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹250 for two"
+    },
+    "cfo": {
+        "text": "₹250 for one"
+    },
+    "locality": {
+        "name": "Jail Road, Indore",
+        "address": "43, Devi Ahilaya Bai Marg, Jail Road, Indore",
+        "localityUrl": "indore/jail-road-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/sandwich/",
+            "name": "Sandwich"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/street-food/",
+            "name": "Street Food"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY0XCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/juices/",
+            "name": "Juices"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/shake/",
+            "name": "Shake"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹250 for one"
+    }
+},
+{
+    "resId": 19620829,
+    "name": "Yes Boss - The Food Court",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/dish_photos/8f1/6c393a7e88a18d1feb88584a2da568f1.jpg"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/9/19620829/55e905d82966856bd15adfaa1a7558d3_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.5",
+        "rating_text": "3.5",
+        "rating_subtitle": "Good",
+        "rating_color": "9ACD32",
+        "votes": "310",
+        "subtext": "REVIEWS",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "3.0",
+                "reviewCount": "9",
+                "reviewTextSmall": "9 Reviews",
+                "subtext": "9 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "3.0",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "500"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "4.0",
+                "reviewCount": "301",
+                "reviewTextSmall": "301 Reviews",
+                "subtext": "301 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "4.0",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹450 for two"
+    },
+    "cfo": {
+        "text": "₹250 for one"
+    },
+    "locality": {
+        "name": "MR 10 Road, Indore",
+        "address": "Plot 99, Scheme 78, Part 2, MR 10 Road, Indore",
+        "localityUrl": "indore/mr-10-road-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/north-indian/",
+            "name": "North Indian"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/continental/",
+            "name": "Continental"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/chinese/",
+            "name": "Chinese"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/fast-food/",
+            "name": "Fast Food"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/shake/",
+            "name": "Shake"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/beverages/",
+            "name": "Beverages"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹250 for one"
+    }
+},
+{
+    "resId": 19538480,
+    "name": "Nafees Cakes & Grills",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/dish_photos/f7c/e48aab3572e14d8e9d6a005be9551f7c.jpg"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/0/19538480/63ab308f42e8e0ce14ea8196bbe1f575_o2_featured_v2.jpeg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "4.0",
+        "rating_text": "4.0",
+        "rating_subtitle": "Very Good",
+        "rating_color": "5BA829",
+        "votes": "1,719",
+        "subtext": "REVIEW",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "",
+                "reviewCount": "0",
+                "reviewTextSmall": "0 Reviews",
+                "subtext": "Does not offer Dining",
+                "color": "",
+                "ratingV2": "-",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "grey",
+                    "tint": "500"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "4.0",
+                "reviewCount": "1,719",
+                "reviewTextSmall": "1,719 Reviews",
+                "subtext": "1,719 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "4.0",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹300 for two"
+    },
+    "cfo": {
+        "text": "₹250 for one"
+    },
+    "locality": {
+        "name": "Bhawar Kuan, Indore",
+        "address": "15, Professor Colony, Bhawar Kuan, Indore",
+        "localityUrl": "indore/bhawar-kuan-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNVwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/bakery/",
+            "name": "Bakery"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/sandwich/",
+            "name": "Sandwich"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/pizza/",
+            "name": "Pizza"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTYxXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/shawarma/",
+            "name": "Shawarma"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/fast-food/",
+            "name": "Fast Food"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/desserts/",
+            "name": "Desserts"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/shake/",
+            "name": "Shake"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/beverages/",
+            "name": "Beverages"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹250 for one"
+    }
+},
+{
+    "resId": 20770871,
+    "name": "Waffle Magic",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/dish_photos/7d1/fa8c155e2666b62f3f3249c92b4d77d1.png"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/1/20770871/e59160ce7476e6c4df705c62dd007b69_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.6",
+        "rating_text": "3.6",
+        "rating_subtitle": "Good",
+        "rating_color": "9ACD32",
+        "votes": "38",
+        "subtext": "REVIEWS",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "",
+                "reviewCount": "0",
+                "reviewTextSmall": "0 Reviews",
+                "subtext": "Does not offer Dining",
+                "color": "",
+                "ratingV2": "-",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "grey",
+                    "tint": "500"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "3.6",
+                "reviewCount": "38",
+                "reviewTextSmall": "38 Reviews",
+                "subtext": "38 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "3.6",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹300 for two"
+    },
+    "cfo": {
+        "text": "₹250 for one"
+    },
+    "locality": {
+        "name": "New Palasia, Indore",
+        "address": "116, Mahakal Ke Juni Chal, New Palasia, Indore",
+        "localityUrl": "indore/new-palasia-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/pizza/",
+            "name": "Pizza"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2N1wiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/waffle/",
+            "name": "Waffle"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/shake/",
+            "name": "Shake"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/beverages/",
+            "name": "Beverages"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹250 for one"
+    }
+},
+{
+    "resId": 21020014,
+    "name": "Figaro's Pizza",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/pictures/4/21020014/b96d88677a0836bb6e2904dc59e90cb2_o2_featured_v2.jpg"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/4/21020014/b96d88677a0836bb6e2904dc59e90cb2_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.8",
+        "rating_text": "3.8",
+        "rating_subtitle": "Good",
+        "rating_color": "9ACD32",
+        "votes": "55",
+        "subtext": "REVIEWS",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "3.7",
+                "reviewCount": "5",
+                "reviewTextSmall": "5 Reviews",
+                "subtext": "5 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "3.7",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "3.8",
+                "reviewCount": "50",
+                "reviewTextSmall": "50 Reviews",
+                "subtext": "50 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "3.8",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹300 for two"
+    },
+    "cfo": {
+        "text": "₹250 for one"
+    },
+    "locality": {
+        "name": "Old Palasia, Indore",
+        "address": "102-202, 5-6, Manglam Elite, Joy Builder Colony, Old Palasia, Indore",
+        "localityUrl": "indore/old-palasia-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/pizza/",
+            "name": "Pizza"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/desserts/",
+            "name": "Desserts"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹250 for one"
+    }
+},
+{
+    "resId": 21085421,
+    "name": "Vijay Sandwich",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/pictures/1/21085421/4975f687b2caaee4ce532b26fe404ed7_o2_featured_v2.jpg"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/1/21085421/4975f687b2caaee4ce532b26fe404ed7_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.3",
+        "rating_text": "3.3",
+        "rating_subtitle": "Average",
+        "rating_color": "CDD614",
+        "votes": "15",
+        "subtext": "REVIEWS",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "",
+                "reviewCount": "0",
+                "reviewTextSmall": "0 Reviews",
+                "subtext": "Does not offer Dining",
+                "color": "",
+                "ratingV2": "-",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "grey",
+                    "tint": "500"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "3.3",
+                "reviewCount": "15",
+                "reviewTextSmall": "15 Reviews",
+                "subtext": "15 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "3.3",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "500"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹550 for two"
+    },
+    "cfo": {
+        "text": "₹250 for one"
+    },
+    "locality": {
+        "name": "New Palasia, Indore",
+        "address": "116, Mahakal Ke June Chal, New Palasia, Indore",
+        "localityUrl": "indore/new-palasia-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/sandwich/",
+            "name": "Sandwich"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/street-food/",
+            "name": "Street Food"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/coffee/",
+            "name": "Coffee"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹250 for one"
+    }
+},
+{
+    "resId": 20582207,
+    "name": "Hopin - Patio Cafe",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/pictures/7/20582207/91a0e163ec63157ed0e8199b23c6016f_o2_featured_v2.jpg"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/7/20582207/91a0e163ec63157ed0e8199b23c6016f_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "4.0",
+        "rating_text": "4.0",
+        "rating_subtitle": "Very Good",
+        "rating_color": "5BA829",
+        "votes": "110",
+        "subtext": "REVIEWS",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "3.9",
+                "reviewCount": "33",
+                "reviewTextSmall": "33 Reviews",
+                "subtext": "33 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "3.9",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "4.1",
+                "reviewCount": "77",
+                "reviewTextSmall": "77 Reviews",
+                "subtext": "77 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "4.1",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹1,200 for two"
+    },
+    "cfo": {
+        "text": "₹250 for one"
+    },
+    "locality": {
+        "name": "New Palasia, Indore",
+        "address": "17/2, New Palasia, Indore",
+        "localityUrl": "indore/new-palasia-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/italian/",
+            "name": "Italian"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTVcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/thai/",
+            "name": "Thai"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/north-indian/",
+            "name": "North Indian"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/chinese/",
+            "name": "Chinese"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/beverages/",
+            "name": "Beverages"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/coffee/",
+            "name": "Coffee"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹250 for one"
+    }
+},
+{
+    "resId": 20900794,
+    "name": "Li Pinos Pizzeria",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/dish_photos/37d/97b6b4234312ad2e75abf1bdaae7337d.png"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/4/20900794/c0e8004cad26627a39dcb7b6911c6957_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.3",
+        "rating_text": "4.3",
+        "rating_subtitle": "Average",
+        "rating_color": "CDD614",
+        "votes": "54",
+        "subtext": "REVIEWS",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "",
+                "reviewCount": "0",
+                "reviewTextSmall": "0 Reviews",
+                "subtext": "Does not offer Dining",
+                "color": "",
+                "ratingV2": "-",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "grey",
+                    "tint": "500"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "3.3",
+                "reviewCount": "54",
+                "reviewTextSmall": "54 Reviews",
+                "subtext": "54 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "3.3",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "500"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹250 for two"
+    },
+    "cfo": {
+        "text": "₹250 for one"
+    },
+    "locality": {
+        "name": "New Palasia, Indore",
+        "address": "116, Mahakal Ke JunI Chal, New Palasia, Indore",
+        "localityUrl": "indore/new-palasia-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/pizza/",
+            "name": "Pizza"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/pasta/",
+            "name": "Pasta"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY4XCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/burger/",
+            "name": "Burger"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/shake/",
+            "name": "Shake"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2N1wiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/waffle/",
+            "name": "Waffle"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/beverages/",
+            "name": "Beverages"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹250 for one"
+    }
+},
+{
+    "resId": 20547887,
+    "name": "Nirula's",
+    "image": {
+        "url": "https://b.zmtcdn.com/data/dish_photos/666/721c48b61b08f5bedf269e52001c7666.jpg"
+    },
+    "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/7/20547887/75ba5db9d4aeb9a059c73fb7e90a90c3_o2_featured_v2.jpg"
+    },
+    "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "4.2",
+        "rating_text": "4.2",
+        "rating_subtitle": "Very Good",
+        "rating_color": "5BA829",
+        "votes": "285",
+        "subtext": "REVIEWS",
+        "is_new": false
+    },
+    "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+            "DINING": {
+                "rating_type": "DINING",
+                "rating": "",
+                "reviewCount": "0",
+                "reviewTextSmall": "0 Reviews",
+                "subtext": "Does not offer Dining",
+                "color": "",
+                "ratingV2": "-",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                    "type": "grey",
+                    "tint": "500"
+                },
+                "newOnDining": false
+            },
+            "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "4.2",
+                "reviewCount": "285",
+                "reviewTextSmall": "285 Reviews",
+                "subtext": "285 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "4.2",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                },
+                "newOnDelivery": false
+            }
+        }
+    },
+    "cft": {
+        "text": "₹600 for two"
+    },
+    "cfo": {
+        "text": "₹250 for one"
+    },
+    "locality": {
+        "name": "Vijay Nagar, Indore",
+        "address": "Plot 58, Ground Floor, Vijay Nagar, Indore",
+        "localityUrl": "indore/vijay-nagar-restaurants"
+    },
+    "timing": {
+        "text": "",
+        "color": ""
+    },
+    "cuisine": [
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjMzXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/ice-cream/",
+            "name": "Ice Cream"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/pizza/",
+            "name": "Pizza"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY4XCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/burger/",
+            "name": "Burger"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/north-indian/",
+            "name": "North Indian"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA1MVwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/indore/restaurants/momos/",
+            "name": "Momos"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/indore/restaurants/fast-food/",
+            "name": "Fast Food"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/desserts/",
+            "name": "Desserts"
+        },
+        {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/indore/restaurants/beverages/",
+            "name": "Beverages"
+        }
+    ],
+    "should_ban_ugc": false,
+    "costText": {
+        "text": "₹250 for one"
+    }
+}
+]

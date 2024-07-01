@@ -1,0 +1,286 @@
+.appHeader{
+  background-color: #e7e0ff;
+  border-radius: 7px;
+}
+.navHeading{
+  color: #812e4a;
+  padding: 8px;
+  font-size: 39px;
+  margin-left: 85px;
+  position: absolute;
+  top: 14px;
+  font-family: "Poetsen One", sans-serif;
+  font-style: normal;
+}
+.headStyle{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  height: 85px;
+}
+.appStatus{
+  display: flex;
+  gap: 8px;
+  padding: 5px;
+  color: black;
+}
+.logo{
+  display: flex;
+}
+.headHome{
+  padding: 5px;
+  color: black;
+  text-decoration: none;
+}
+.headHome:hover{
+  font-size: 20px;
+}
+.logoTag{
+  border-radius: 70px;
+  width: 131px;
+  height: 105px;
+  position: relative;
+  bottom: 21px;
+  right: 14px;
+}
+
+.navigation > ul{
+  font-size: 18px;
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  right: 92px;
+  position: absolute;
+}
+.appReasturant{
+  /* box-shadow: -2px 4px 4px 3px #decfcf; */
+  height: 365px;
+  width: 265px;
+  padding: 7px;
+  border-radius: 3px;
+  word-wrap: break-word;
+  margin-bottom: 15px;
+}
+.resBodyData{
+  line-height: 1em;
+}
+.bodyButton{
+  display: flex;
+  gap: 22px;
+  position: absolute;
+  right: 9px;
+  margin-top: 6px;
+  width: 58%;
+}
+.cardContent{
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+}
+.cardName{
+  margin-top: 14px;
+  font-size: 18px;
+  font-family: Gilroy_Bold;
+  font-weight: 700;
+}
+
+.appBody{
+  flex-wrap: wrap;
+  display: flex;
+  gap: 15px;
+  margin: auto auto 40px;
+  width: 80%;
+  /* margin-top: 37px; */
+}
+.imgStyle{
+  height: 200px;
+  width: 100%;
+  font-style: oblique;
+  border-radius: 5px;
+  color: black;
+  box-shadow: 4px 5px 6px 0px grey;
+}
+.imgStyle:hover{
+  height: 198px;
+  width: 99%;
+}
+.recommeCard{
+  color: #000;
+  border-radius: 5px;
+  width: 196px;
+  height: 120px;
+  padding: 1px;
+  position: relative;
+  bottom: 5px;
+  right: 4px;
+}
+.resHeading{
+  padding: 5px;
+  text-align: center;
+}
+.styleButton{
+  border-radius: 7px;
+  width: 100px;
+  height: 25px;
+  font-size: 15px;
+  box-shadow: #7c7c7c 2px 2px 2px 2px;
+}
+.styleButton:hover{
+  font-size: 12px;
+  background-color: #8ec6733d;
+}
+.reasturantDetail{
+  /* border-radius: 10px; */
+  display: flex;
+  width: 60%;
+  margin: auto;
+  margin-bottom: 40px;
+  border-radius: 20px;
+  box-shadow: #9d9d9d 2px 2px 2px 2px;
+  background: linear-gradient(rgb(255, 255, 255) -6.71%, rgb(245 245 245) 56.19%,
+  rgb(169 169 169) 106.56%);
+}
+
+.resImageInfo{
+  height: 260px;
+  width: 400px;
+  margin: auto;
+  padding: 10px;
+  border-radius: 20px;
+  /* box-shadow: #9d9d9d 2px 2px 2px 2px; */
+}
+.resCardInfo{
+  line-height: 1.50rem;
+  margin: auto;
+}
+.aboutUsHead{
+  border: 1px solid grey;
+  text-align: center;
+  height: 300px;
+  width: 1535px;
+  padding: 7px;
+  border-radius: 4px;
+}
+.accordionTitle{
+  font-size: 20px;
+  margin-top: 8px;
+  border: 1px solid grey;
+  box-shadow: #a8a8a8 2px 2px 2px 2px;
+  border-radius: 10px;
+  padding-left: 7px;
+  margin-bottom: 15px;
+}
+.accordionTitle:hover{
+  background-color: #f1f1f1;
+}
+.recommenAdd {
+  background-color: green;
+  color: white;
+  width: 105px;
+  height: 31px;
+  position: relative;
+  top: 105px;
+  right: 163px;
+  border-radius: 7px;
+}
+.recommenAdd:hover {
+  background-color: black;
+  color: white;
+}
+.recommenRemove{
+  background-color: rgb(243, 43, 43);
+  color: white;
+  width: 115px;
+  height: 31px;
+  position: relative;
+  top: 105px;
+  right: 163px;
+  border-radius: 7px;
+}
+.recommenClear{
+  background-color: rgb(243, 230, 43);
+  color: white;
+  width: 105px;
+  height: 31px;
+  position: relative;
+  top: 105px;
+  right: 163px;
+  border-radius: 7px;
+}
+.accordionData{
+  width: 100%;
+  /* margin: auto; */
+}
+.accordionHead{
+  padding-top: 5px;
+}
+.accordionName{
+  font-family: Gilroy_Bold;
+  font-weight: 700;
+  font-size: 18px;
+}
+.childAccordionImgList{
+  float: right;
+  position: relative;
+  bottom: 4px;
+  left: 80px;
+}
+
+.childAccordionImage{
+  height: 140px;
+  width: 205px;
+  padding-right: 5px;
+  border-radius: 12px;
+}
+.childAccordionNoImage{
+  height: 140px;
+  width: 205px;
+  padding-right: 5px;
+  border-radius: 12px;
+}
+.accodion{
+  width: 66%;
+  margin: auto;
+}
+.recommenReasturant{
+  display: flex;
+  border: 1px solid grey;
+  border-radius: 9px;
+  height: 145px;
+  margin-top: 10px;
+  line-height: 1rem;
+  padding-left: 5px;
+  padding-top: 5px;
+  font-family: Gilroy;
+  font-weight: 900;
+}
+.recommenReasturant:hover{
+  background-color: #f1f1f1;
+}
+.recommenData{
+  width: 714px;
+  font-size: 13px;
+}
+.dropdown{
+  width: 200px;
+}
+.datePicker{
+  text-align: center;
+  width: 190px;
+}
+.pdfTopImage{
+  height: "200px"!important; 
+  width: "245px"!important; 
+  border-radius: "10px"!important;
+}
+.container{
+  margin-top: 20px;
+}
+.headerHeading{
+  font-family: Gilroy;
+  font-size: 26px;
+  font-weight: 800;
+  width: 79%;
+  margin: auto;
+  padding-bottom: 6px;
+}
