@@ -9,10 +9,12 @@ const Restaurant = (props) => {
         <img className="imgStyle" src={`https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/${cloudinaryImageId}`} />
         <div className="resBodyData">
           <h5 className="cardName">{name}</h5>
-          <p><img style={{height: "18px",marginRight: "5px", borderRadius: "50%"}} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiZZDDZdrwOTUL--HgKdSA_22ZgBciqwXhPg&s"/>
-          {avgRating}</p>
+          { avgRating &&
+            <p><img style={{height: "18px",marginRight: "5px", borderRadius: "50%"}} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiZZDDZdrwOTUL--HgKdSA_22ZgBciqwXhPg&s"/>
+            {avgRating}</p>
+          }
           <p>{costForTwo}</p>
-          <p>{cuisines.join(',')}</p>
+          <p>{cuisines.join(', ')}</p>
         </div>
       </Link>
     </div>

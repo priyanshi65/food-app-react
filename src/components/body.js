@@ -1,8 +1,11 @@
 import React, { useState, useEffect } from "react";
-import html2pdf from 'html2pdf.js';
 import Restaurant from "./bodyResturantData";
 import Slider from "react-slick";
 import pdfContent from "../htmlContent/pdfContent.html";
+import jsPDF from 'jspdf';
+import html2canvas from 'html2canvas';
+import { useNavigate } from "react-router-dom";
+
 
 function Body() {
   const [index, setIndex] = useState(8);
@@ -10,6 +13,11 @@ function Body() {
   const [search, setSearch] = useState("");
   const [topRated, setTopRated] = useState(false);
   const [sliderData, setSliderData] = useState([]);
+  const navigate = useNavigate();
+
+  const handleClick = (id) => {
+    navigate(`/resInfo/${id}`);
+  };
 
   const handleTopRated = () => {
     setTopRated(true);
@@ -42,10 +50,9 @@ function Body() {
 
   const fetchSliderData = async () => {
     try {
-      const response = await fetch('https://www.swiggy.com/dapi/restaurants/list/v5?lat=21.99740&lng=79.00110&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING'); // Replace with the actual API URL
+      const response = await fetch('https://www.swiggy.com/dapi/restaurants/list/v5?lat=21.99740&lng=79.00110&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING');
       const jsonData = await response.json();
       const data = jsonData.data.cards[0].card.card.imageGridCards.info;
-      console.log(data,"zxcvbnm")
       setSliderData(data);
     } catch (err) {
       console.error(err);
@@ -57,45 +64,89 @@ function Body() {
     fetchSliderData();
   }, []);
 
-  const convertToPdf = async () => {
-    const response = await fetch(pdfContent);
-    const htmlContent = await response.text();
+  // const convertToPdf = async () => {
+  //   const response = await fetch(pdfContent);
+  //   const htmlContent = await response.text();
 
-    const options = {
-      filename: 'my-document.pdf',
-      width: '100%',
-      border: 1,
-      margin: [20, 15, 20, 15],
-      image: { type: 'jpg', quality: 1.4 },
-      html2canvas: { scale: 1.4 },
-      pagebreak: { mode: ['avoid-all', 'css', 'legacy'] },
-      jsPDF: {
+  //   const options = {
+  //     filename: 'my-document.pdf',
+  //     width: '100%',
+  //     border: 1,
+  //     margin: [20, 15, 20, 15],
+  //     image: { type: 'jpg', quality: 1.4 },
+  //     html2canvas: { scale: 1.4 },
+  //     pagebreak: { mode: ['avoid-all', 'css', 'legacy'] },
+  //     jsPDF: {
+  //       unit: 'pt',
+  //       format: 'a4',
+  //       orientation: 'portrait',
+  //       compress: true
+  //     },
+  //   };
+
+  //   html2pdf().set(options).from(htmlContent).toContainer()
+  //     .toCanvas()
+  //     .toImg()
+  //     .toPdf()
+  //     .get('pdf')
+  //     .then((pdf) => {
+  //       const totalPages = pdf.internal.getNumberOfPages();
+  //       const headingMarginTop = 20;
+
+  //       for (let i = 1; i <= totalPages; i++) {
+  //         pdf.setPage(i);
+
+  //         pdf.setFontSize(12);
+  //         pdf.text('STARK INDUSTRIES - 148 65th Avenue Northeast 908', pdf.internal.pageSize.getWidth() / 2, headingMarginTop, { align: 'right' });
+
+  //         pdf.setFontSize(10);
+  //         pdf.text(`Page ${i} of ${totalPages}`, pdf.internal.pageSize.getWidth() / 2, pdf.internal.pageSize.getHeight() - 10, { align: 'center' });
+  //       }
+  //     }).save();
+  // };
+
+  const convertToPdf = async () => {
+    try {
+      const response = await fetch(pdfContent);
+      const htmlContent = await response.text();
+      const element = document.createElement('div');
+      element.innerHTML = htmlContent;
+      document.body.appendChild(element);
+
+      const canvas = await html2canvas(element, { scale: 1.0 });
+      const imgData = canvas.toDataURL('image/jpeg', 0.8);
+
+      const marginTop = 20;
+      const marginBottom = 20;
+      const marginLeft = 20;
+      const marginRight = 20;
+
+      const pdf = new jsPDF({
         unit: 'pt',
         format: 'a4',
         orientation: 'portrait',
         compress: true
-      },
-    };
+      });
 
-    html2pdf().set(options).from(htmlContent).toContainer()
-      .toCanvas()
-      .toImg()
-      .toPdf()
-      .get('pdf')
-      .then((pdf) => {
-        const totalPages = pdf.internal.getNumberOfPages();
-        const headingMarginTop = 20;
+      const imgWidth = 595.28 - marginLeft - marginRight;
+      const pageHeight = 841.89;
+      const imgHeight = canvas.height * imgWidth / canvas.width;
+      let heightLeft = imgHeight;
 
-        for (let i = 1; i <= totalPages; i++) {
-          pdf.setPage(i);
+      pdf.addImage(imgData, 'JPEG', marginLeft, marginTop, imgWidth, imgHeight);
+      heightLeft -= (pageHeight - marginTop - marginBottom);
 
-          pdf.setFontSize(12);
-          pdf.text('STARK INDUSTRIES - 148 65th Avenue Northeast 908', pdf.internal.pageSize.getWidth() / 2, headingMarginTop, { align: 'right' });
+      while (heightLeft >= 0) {
+        pdf.addPage();
+        pdf.addImage(imgData, 'JPEG', marginLeft, heightLeft - imgHeight + marginTop, imgWidth, imgHeight);
+        heightLeft -= pageHeight;
+      }
 
-          pdf.setFontSize(10);
-          pdf.text(`Page ${i} of ${totalPages}`, pdf.internal.pageSize.getWidth() / 2, pdf.internal.pageSize.getHeight() - 10, { align: 'center' });
-        }
-      }).save();
+      pdf.save('my-document.pdf');
+      document.body.removeChild(element);
+    } catch (error) {
+      console.error('Error generating PDF:', error);
+    }
   };
 
   const sliderSettings = {
@@ -139,8 +190,12 @@ function Body() {
       <div style={{marginTop: "20px"}}>
         <Slider  className="helo" {...sliderSettings} style={{width: "80%",margin: "auto auto"}}>
           {sliderData.map((item) => (
-            <div key={item.id}>
-              <img style={{height: "155px", width: "155px", marginTop: "40px"}} src={`https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/${item.imageId}`} alt={item.id} />
+            <div key={item.id} style={{ cursor: "pointer" }} onClick={() => handleClick(item.id)}>
+              <img
+                style={{ height: "155px", width: "155px", marginTop: "40px" }}
+                src={`https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/${item.imageId}`}
+                alt={item.id}
+              />
             </div>
           ))}
         </Slider>

@@ -5,6 +5,7 @@ import AboutUs from "./components/aboutUs";
 import Body from "./components/body";
 import ResInfo from "./components/resturantInfo";
 import AddCart from "./components/addCart";
+import ItemInfo from "./components/itemInfo";
 
 export const routes = createBrowserRouter([
   {
@@ -23,6 +24,10 @@ export const routes = createBrowserRouter([
       {
         path: '/resInfo/:resId',
         element: <ResInfo/>
+      },
+      {
+        path: '/resInfo/:itemId',
+        element: <ItemInfo/>
       },
       {
         path: '/addCart',

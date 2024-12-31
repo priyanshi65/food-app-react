@@ -1,6 +1,7 @@
 import { useParams } from "react-router-dom";
 import { useResInfo } from "../utils/hooks/useResInfo.js";
 import CustomAccordion from "./accordionData.js";
+import TopPicks from "./topPicks.js";
 
 const ResInfo = () => {
   const { resId } = useParams();
@@ -22,8 +23,8 @@ const ResInfo = () => {
           <img 
             className="resImageInfo" src={`https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/${cloudinaryImageId}`}/>
           <div className="resCardInfo">
-            <div>
-              <h4 className="resInfo">{name}</h4>
+            <div className="resInfo">
+              <h4>{name}</h4>
             </div>
             <div style={{display: "flex"}}>
               <img style={{height: "52px",marginTop: "-11px"}} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRWRXWeRS_44g-WIWLWrMJ2yUn6hAL2_Ykgg&s"/>
@@ -43,15 +44,15 @@ const ResInfo = () => {
             </div>
           </div>
         </div>
+        <TopPicks resId={resId}/>,
         {accordionData?.map((data,i) => {
-          return <CustomAccordion key={i} itemInfo={data?.card?.card} />
+          return (
+          <CustomAccordion key={i} itemInfo={data?.card?.card} />
+          )
         })}
       </div>
     </>
   );
 };
-
-
-
 
 export default ResInfo
